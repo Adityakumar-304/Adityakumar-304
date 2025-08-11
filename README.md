@@ -1,3 +1,8 @@
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://your-banner-image-link-here" alt="Aditya Kumar | Software Developer & Data Science Enthusiast" width="100%">
+</p>
+
 # Hi there 👋, I'm Aditya Kumar!
 
 🌟 *Passionate Developer | Data Science Enthusiast | Problem Solver* 🌟  
