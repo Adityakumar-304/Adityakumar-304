@@ -1,7 +1,6 @@
 <!-- Profile Banner -->
-
 <h1 align="center">Hi there 👋, I'm <span style="color:#ff6600;">Aditya Kumar</span>!</h1>
-<h3 align="center">💻 Passionate Developer | 🤖 Data Science Enthusiast | 🧩 Problem Solver</h3>
+<h3 align="center">💻 Passionate Developer | 🤖 Data Science & AI/ML Enthusiast | 🧩 Problem Solver | 🪄 Generative AI Explorer</h3>
 
 <p align="center">
   <a href="mailto:aditya20041222@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -9,13 +8,17 @@
   <a href="https://github.com/Adityakumar-304"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Adityakumar-304&label=Profile%20Views&color=ff6600&style=flat" alt="Profile Views" />
+</p>
+
 ---
 
 ## 🚀 About Me  
 
-- 🎓 **B.Tech CSE-DS** @ IPS Academy, Indore (2021–2025)  
+- 🎓 **B.Tech CSE-DS** @ IPS Academy, Indore (2021–2025)    
 - 💻 **Languages & Tools:** Python 🐍, C/C++ ⚙, HTML 🌐, CSS 🎨, JavaScript ⚡, MySQL 🗄, Firebase 🔥  
-- 🌱 **Currently learning:** Cloud Computing ☁, DevOps ⚙, AI/ML 🤖  
+- 🌱 **Currently learning:** Cloud Computing ☁, DevOps ⚙, AI/ML 🤖, LLMs 🔍  
 - 🏆 **Achievements:**  
   🥇 Winner - *UDAAN Phase-1*  
   🥈 Runner-up - *Hack Sangam Hackathon 2024*  
@@ -30,35 +33,12 @@
 | **Category**           | **Skills** |
 |------------------------|------------|
 | 💻 **Programming**     | Python 🐍, C/C++ ⚙, JavaScript ⚡, HTML 🌐, CSS 🎨 |
+| 🧠 **AI & ML**         | Generative AI 🪄, Machine Learning 🤖, Deep Learning 🧠, NLP 🗣 |
 | 🛠 **Frameworks/Tools** | Figma 🎨, Bootstrap 🖌, Git/GitHub 🐙 |
 | 🗄 **Databases**        | MySQL 🗄, Firebase 🔥 |
 | 📊 **ML Tools**         | Jupyter Notebook 📓, Google Colab 📡 |
 | 🖥 **IDE**              | VS Code 💡, Android Studio 📱 |
-| 📚 **Core Concepts**    | DSA 📈, DBMS 🗃, OOP 🔄, Machine Learning 🤖 |
-
----
-
-## 📂 Featured Projects  
-
-### 🔹 **[ParkEase](#)** *(Smart India Hackathon Project)* 🚗  
-- 🛠 **Tech Stack:** Firebase 🔥, Android Studio 📱, Figma 🎨  
-- 📌 Built a **parking reservation app** for convenient spot booking.  
-- 💡 Enabled landowners to earn by converting free land into parking spaces.  
-- 🎯 Designed smooth & interactive UI in Figma for better UX.  
-
----
-
-### 🔹 **[Advertisement Website](#)** 📢  
-- 🛠 **Tech Stack:** HTML 🌐, CSS 🎨, JavaScript ⚡, Bootstrap 🖌  
-- 📌 A **dynamic advertisement platform** with responsive design.  
-- 📱 Optimized for multiple devices to enhance user experience.  
-
----
-
-### 🔹 **[E-Mail Automation](#)** 📧  
-- 🛠 **Tech Stack:** Python 🐍, Jupyter Notebook 📓, Machine Learning 🤖  
-- 📌 Automated email communication with personalized content generation.  
-- 📊 Integrated ML to improve engagement and tailor messages to users.  
+| 📚 **Core Concepts**    | DSA 📈, DBMS 🗃, OOP 🔄 |
 
 ---
 
@@ -71,9 +51,18 @@
 
 ---
 
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Adityakumar-304&theme=radical&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies" />
+</p>
+
+---
+
 ## 📊 GitHub Stats & Activity  
 
 <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Adityakumar-304&theme=tokyonight&hide_border=false" height="165" />
   <img src="https://github-readme-stats.vercel.app/api?username=Adityakumar-304&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityakumar-304&layout=compact&theme=radical" alt="Top Languages" height="160" />
 </p>
