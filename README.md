@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <h1 align="center">Hi there 👋, I'm <span style="color:#ff6600;">Aditya Kumar</span>!</h1>
-<h3 align="center">💻 Passionate Developer | 🤖 Data Science & AI/ML Enthusiast | 🧩 Problem Solver | 🪄 Generative AI Explorer</h3>
+<h3 align="center">💻 Passionate Developer | 🤖 Data Science & AI/ML Enthusiast | 🧩 Problem Solver |  🪄 Generative AI Explorer</h3>
 
 <p align="center">
   <a href="mailto:aditya20041222@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -17,9 +17,9 @@
 ## 🚀 About Me  
 
 - 🎓 **B.Tech CSE-DS** @ IPS Academy, Indore (2021–2025)    
-- 💻 **Languages & Tools:** Python 🐍, C/C++ ⚙, HTML 🌐, CSS 🎨, JavaScript ⚡, MySQL 🗄, Firebase 🔥  
-- 🌱 **Currently learning:** Cloud Computing ☁, DevOps ⚙, AI/ML 🤖, LLMs 🔍  
-- 🏆 **Achievements:**  
+   
+- 🏆 **Achievements:**
+
   🥇 Winner - *UDAAN Phase-1*  
   🥈 Runner-up - *Hack Sangam Hackathon 2024*  
   🎯 Selected for *Smart India Hackathon 2023*  
@@ -33,7 +33,6 @@
 | **Category**           | **Skills** |
 |------------------------|------------|
 | 💻 **Programming**     | Python 🐍, C/C++ ⚙, JavaScript ⚡, HTML 🌐, CSS 🎨 |
-| 🧠 **AI & ML**         | Generative AI 🪄, Machine Learning 🤖, Deep Learning 🧠, NLP 🗣 |
 | 🛠 **Frameworks/Tools** | Figma 🎨, Bootstrap 🖌, Git/GitHub 🐙 |
 | 🗄 **Databases**        | MySQL 🗄, Firebase 🔥 |
 | 📊 **ML Tools**         | Jupyter Notebook 📓, Google Colab 📡 |
