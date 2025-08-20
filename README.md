@@ -72,7 +72,7 @@
 
 <p align="center">
   <a href="mailto:aditya20041222@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail"></a>
-  <a href="https://www.linkedin.com/in/adityakumar304"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/aditya-kumar-63037b255/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"></a>
   <a href="https://github.com/Adityakumar-304"><img src="https://img.icons8.com/glyph-neue/48/ffffff/github.png" alt="GitHub"></a>
 </p>
 
